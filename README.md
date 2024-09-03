@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Ian Tauzy 👋
+A que me dedico (Titulo)
+## About Me
+## 🛠️ Skills & Technologies
+## 🎓 Certifications & Education
 
 <!--  
 **SeaSmoke-Designer/SeaSmoke-Designer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
