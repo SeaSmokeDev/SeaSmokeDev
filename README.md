@@ -5,7 +5,9 @@
 I’m Ian Tauzy, a junior software and game developer with a passion for creating engaging and immersive experiences. I have a solid foundation in C# and Java, with a strong interest in Unity and game development. My goal is to develop software that not only functions seamlessly but also provides an exceptional user experience.
 
 🌱 I’m currently expanding my skills in game development and full-stack development.
+
 💼 I’m actively seeking opportunities to grow as a software developer.
+
 🎯 My ambition is to work on projects that inspire and create a meaningful impact.
 
 ## 📩 Connect
