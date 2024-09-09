@@ -33,3 +33,5 @@ I’m Ian Tauzy, a junior software and game developer with a passion for creatin
 - **Technical Degree in Microcomputer Systems and Networks**  
   IES Doctor Balmis | Sep 2019 - Mar 2021
 
+
+https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
