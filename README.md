@@ -33,3 +33,10 @@ I’m Ian Tauzy, a junior software and game developer with a passion for creatin
 - **Technical Degree in Microcomputer Systems and Networks**  
   IES Doctor Balmis | Sep 2019 - Mar 2021
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
