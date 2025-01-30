@@ -10,8 +10,25 @@ I’m Ian Tauzy, a junior software and game developer with a passion for creatin
 
 🎯 My ambition is to work on projects that inspire and create a meaningful impact.
 
-## 📩 Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iantauzy) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iangamedesigner@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/624684171066867714)
+# 🚀 Learning Path
+
+I’m constantly improving my skills and learning new technologies to enhance my development capabilities.
+
+## 📖 Currently Learning
+
+- C#
+- ASP.NET Core 8
+- Entity Framework Core
+- SQL Server
+- JWT (JSON Web Tokens)
+- Swagger / OpenAPI
+- AutoMapper
+- Azure App Service
+  
+## 🔮 Future Technologies to Learn
+
+- Blazor (for interactive web UIs with .NET)
+- MAUI (for cross-platform app development)
 
 ## 🛠️ Skills & Technologies
 - **Front-end:** HTML, CSS, Bootstrap, JavaScript, jQuery
@@ -32,6 +49,9 @@ I’m Ian Tauzy, a junior software and game developer with a passion for creatin
   IES Doctor Balmis | Sep 2021 - Mar 2023
 - **Technical Degree in Microcomputer Systems and Networks**  
   IES Doctor Balmis | Sep 2019 - Mar 2021
+
+## 📩 Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iantauzy) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iangamedesigner@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/624684171066867714)
 
 
 <picture>
