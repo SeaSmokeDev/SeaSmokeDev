@@ -61,5 +61,6 @@ I’m constantly improving my skills and learning new technologies to enhance my
 </picture>
 
 
-![SeaSmokeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaSmokeDev&show_icons=true&theme=radical)
+<!--![SeaSmokeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaSmokeDev&show_icons=true&theme=radical)-->
+
 
