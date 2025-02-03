@@ -60,3 +60,6 @@ I’m constantly improving my skills and learning new technologies to enhance my
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
+
+![SeaSmokeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaSmokeDev&show_icons=true&theme=radical)
+
