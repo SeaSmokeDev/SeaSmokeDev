@@ -16,16 +16,19 @@ I’m constantly improving my skills and learning new technologies to enhance my
 
 ## 📖 Currently Learning
 
-- C#
-- ASP.NET Core 8
-- Entity Framework Core
-- SQL Server
-- JWT (JSON Web Tokens)
-- Swagger / OpenAPI
-- AutoMapper
-- Azure App Service
-  
----
+- **ASP.NET 8 MVC**  
+- **Entity Framework Core**  
+- **SQL Server**  
+- **Azure App Service**  
+- **Repository Pattern**  
+- **Unit Testing with xUnit**  
+- **JavaScript/JQuery/AJAX**  
+- **Identity Framework**  
+- **Plugins frontend: Bootstrap, Bootswatch, Toastr, Datatables, SweetAlerts**  
+- **MySQL**
+
+📚 [Course Details](https://www.udemy.com/course/master-en-aspnet-core-31-mvc-entity-framework/?couponCode=ST13MT80425G2)
+
 
 ## 🛠️ Main Skills
 These are the technologies I use most often and feel confident with:
@@ -91,6 +94,7 @@ These are tools and technologies I've used in projects or training:
 I'm constantly learning and updating my skills through online courses and personal projects. Below are some of the courses I've completed recently:
 
 - ✅ [Master API RESTful with ASP.NET Core Web API (.NET 9)](Certificates/master-api-restful-aspnet-core-web-api.pdf) — *Udemy* (2025)
+    - 📚 [Course Details](https://www.udemy.com/course/master-api-restful-aspnet-core/?couponCode=ST13MT80425G2)
 - ✅ [Math for Video Games with Unity](Certificates/curso-matematicas-videojuegos-unity.pdf) — *OpenWebinars*
 - ✅ [Unity Components and API Course](Certificates/curso-de-componentes-y-api-de-unity.pdf) — *OpenWebinars*
 - ✅ [Unity Course](Certificates/curso-unity.pdf) — *OpenWebinars*
