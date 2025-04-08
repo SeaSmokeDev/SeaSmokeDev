@@ -90,13 +90,13 @@ These are tools and technologies I've used in projects or training:
 
 I'm constantly learning and updating my skills through online courses and personal projects. Below are some of the courses I've completed recently:
 
-- ✅ [Master API RESTful with ASP.NET Core Web API (.NET 9)](certificates/aspnet_api_restful_udemy.pdf) — *Udemy* (2025)
-- ✅ [Math for Video Games with Unity](certificates/matematicas_videojuegos_unity.pdf) — *OpenWebinars*
-- ✅ [Unity Components and API Course](certificates/componentes_api_unity.pdf) — *OpenWebinars*
-- ✅ [Unity Course](certificates/curso_unity_openwebinars.pdf) — *OpenWebinars*
-- ✅ [Technical Scrum Course](certificates/scrum_tecnico.pdf) — *OpenWebinars*
-- ✅ [C# Intermediate Course](certificates/csharp_intermediate_sololearn.pdf) — *SoloLearn*
-- ✅ [C# Course](certificates/csharp_sololearn.pdf) — *SoloLearn*
+- ✅ [Master API RESTful with ASP.NET Core Web API (.NET 9)](Certificates/master-api-restful-aspnet-core-web-api.pdf) — *Udemy* (2025)
+- ✅ [Math for Video Games with Unity](Certificates/curso-matematicas-videojuegos-unity.pdf) — *OpenWebinars*
+- ✅ [Unity Components and API Course](Certificates/curso-de-componentes-y-api-de-unity.pdf) — *OpenWebinars*
+- ✅ [Unity Course](Certificates/curso-unity.pdf) — *OpenWebinars*
+- ✅ [Technical Scrum Course](Certificates/curso-scrum-tecnico.pdf) — *OpenWebinars*
+- ✅ [C# Intermediate Course](Certificates/curso-csharp-intermediate-sololearn.pdf) — *SoloLearn*
+- ✅ [C# Course](Certificates/curso-csharp-sololearn.pdf) — *SoloLearn*
 
 ## 📩 Connect
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iantauzy)
