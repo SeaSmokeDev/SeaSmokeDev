@@ -25,11 +25,6 @@ I’m constantly improving my skills and learning new technologies to enhance my
 - AutoMapper
 - Azure App Service
   
-## 🔮 Future Technologies to Learn
-
-- Blazor (for interactive web UIs with .NET)
-- MAUI (for cross-platform app development)
-  
 ---
 
 ## 🛠️ Main Skills
@@ -90,6 +85,18 @@ These are tools and technologies I've used in projects or training:
   IES Doctor Balmis | Sep 2021 - Mar 2023
 - **Technical Degree in Microcomputer Systems and Networks**  
   IES Doctor Balmis | Sep 2019 - Mar 2021
+
+## 📚 Complementary Courses & Self-Learning
+
+I'm constantly learning and updating my skills through online courses and personal projects. Below are some of the courses I've completed recently:
+
+- ✅ [Master API RESTful with ASP.NET Core Web API (.NET 9)](certificates/aspnet_api_restful_udemy.pdf) — *Udemy* (2025)
+- ✅ [Math for Video Games with Unity](certificates/matematicas_videojuegos_unity.pdf) — *OpenWebinars*
+- ✅ [Unity Components and API Course](certificates/componentes_api_unity.pdf) — *OpenWebinars*
+- ✅ [Unity Course](certificates/curso_unity_openwebinars.pdf) — *OpenWebinars*
+- ✅ [Technical Scrum Course](certificates/scrum_tecnico.pdf) — *OpenWebinars*
+- ✅ [C# Intermediate Course](certificates/csharp_intermediate_sololearn.pdf) — *SoloLearn*
+- ✅ [C# Course](certificates/csharp_sololearn.pdf) — *SoloLearn*
 
 ## 📩 Connect
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iantauzy)
