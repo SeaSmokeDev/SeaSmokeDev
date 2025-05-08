@@ -16,18 +16,16 @@ I’m constantly improving my skills and learning new technologies to enhance my
 
 ## 📖 Currently Learning
 
-- **ASP.NET 8 MVC**  
-- **Entity Framework Core**  
+- **Web development with Blazor Server and Blazor WebAssembly**  
+- **Routing, forms, components, layouts, authentication and authorization with Identity**  
 - **SQL Server**  
-- **Azure App Service**  
-- **Repository Pattern**  
-- **Unit Testing with xUnit**  
-- **JavaScript/JQuery/AJAX**  
+- **Building and consuming RESTful APIs with .NET 8**  
+- **JavaScript integration, Bootstrap 5, SweetAlerts, and Toastr**  
+- **Repository Pattern, DTOs, Data Seeding, and Dependency Injection**  
+- **App deployment on Microsoft Azure**  
 - **Identity Framework**  
-- **Plugins frontend: Bootstrap, Bootswatch, Toastr, Datatables, SweetAlerts**  
-- **MySQL**
 
-📚 [Course Details](https://www.udemy.com/course/master-en-aspnet-core-31-mvc-entity-framework/?couponCode=ST13MT80425G2)
+📚 [Course Details](https://www.udemy.com/course/master-blazor/?couponCode=KEEPLEARNING)
 
 
 ## 🛠️ Main Skills
