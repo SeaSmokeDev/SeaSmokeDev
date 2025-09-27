@@ -14,16 +14,28 @@ I’m Ian Tauzy, a junior software and game developer with a passion for creatin
 
 I’m constantly improving my skills and learning new technologies to enhance my development capabilities.
 
-## 📖 Currently Learning
+### 📖 Currently Learning
 
-- **Web development with Blazor Server and Blazor WebAssembly**  
-- **Routing, forms, components, layouts, authentication and authorization with Identity**  
-- **SQL Server**  
-- **Building and consuming RESTful APIs with .NET 8**  
-- **JavaScript integration, Bootstrap 5, SweetAlerts, and Toastr**  
-- **Repository Pattern, DTOs, Data Seeding, and Dependency Injection**  
-- **App deployment on Microsoft Azure**  
-- **Identity Framework**  
+### 🎓 **Advanced Technical Degree in Web Application Development**
+
+I’m currently pursuing a higher degree in Web Application Development, where I’m working with:
+
+- Front-end: JavaScript, React, TypeScript, Angular, Bootstrap, Sass.
+- Back-end: PHP, Java, Spring Boot (MVC, Data JPA, Security), API REST.
+- Databases: SQL, MySQL.
+- DevOps & Cloud: Git, GitHub, CI/CD, Docker, AWS Academy Cloud Foundations.
+- Other: Digital transformation, UI/UX design, sustainability in tech.
+
+### 🎓 **Blazor – Server & WebAssembly (.NET 9)**
+
+- Web development with Blazor Server and Blazor WebAssembly  
+- Routing, forms, components, layouts, authentication and authorization with Identity
+- SQL Server 
+- Building and consuming RESTful APIs with .NET 8
+- JavaScript integration, Bootstrap 5, SweetAlerts, and Toastr 
+- Repository Pattern, DTOs, Data Seeding, and Dependency Injection  
+- App deployment on Microsoft Azure
+- Identity Framework
 
 📚 [Course Details](https://www.udemy.com/course/master-blazor/?couponCode=KEEPLEARNING)
 
@@ -80,6 +92,8 @@ These are tools and technologies I've used in projects or training:
 
 
 ## 🎓 Certifications & Education
+- **Advanced Technical Degree in Web Application Development**  
+  IES Doctor Balmis | Sep 2025 - Present
 - **Specialization in Video Game and Virtual Reality Development**  
   IES Poeta Paco Mollà | Oct 2023 - May 2024
 - **Advanced Technical Degree in Multiplatform Application Development**  
