@@ -26,9 +26,9 @@ I’m currently pursuing a higher degree in Web Application Development, where I
 - DevOps & Cloud: Git, GitHub, CI/CD, Docker, AWS Academy Cloud Foundations.
 - Other: Digital transformation, UI/UX design, sustainability in tech.
 
-[### 🎓 **Blazor – Server & WebAssembly (.NET 9)**]: # 
+<!--### 🎓 **Blazor – Server & WebAssembly (.NET 9)**
 
-- Web development with Blazor Server and Blazor WebAssembly  
+- Web development with Blazor Server and Blazor WebAssembly
 - Routing, forms, components, layouts, authentication and authorization with Identity
 - SQL Server 
 - Building and consuming RESTful APIs with .NET 8
@@ -37,7 +37,7 @@ I’m currently pursuing a higher degree in Web Application Development, where I
 - App deployment on Microsoft Azure
 - Identity Framework
 
-📚 [Course Details](https://www.udemy.com/course/master-blazor/?couponCode=KEEPLEARNING)]
+📚 [Course Details](https://www.udemy.com/course/master-blazor/?couponCode=KEEPLEARNING) -->
 
 
 ## 🛠️ Main Skills
