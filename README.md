@@ -41,9 +41,9 @@ I’m currently pursuing a higher degree in Web Application Development, where I
 ## 🛠️ Main Skills
 These are the technologies I use most often and feel confident with:
 
-- **Backend:** Java, Spring Boot, C#, ASP.NET Core, REST APIs
+- **Backend:** Java, Spring Boot, C#, ASP.NET Core
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React
-- **Databases:** SQL, MySQL, SQL Server, MongoDB
+- **Databases:** SQL, MySQL, SQL Server, MongoDB, PL/SQL
 - **Cloud & Tools:** AWS, Docker, Git, GitHub, Postman
 
 <!-- - **Languages & Frameworks:** C#, ASP.NET Core, Java, HTML, CSS  
@@ -88,10 +88,10 @@ These are the technologies I use most often and feel confident with:
 
 Technologies and tools I have used in previous projects, training or academic work:
 
-- **Backend & Desktop:** Kotlin, WPF, JDBC, JPA, EclipseLink
-- **Frontend:** jQuery
+- **Backend & Desktop:** Kotlin, WPF, JDBC, JPA
+- **Frontend:** jQuery, AJAX
 - **CMS & Platforms:** WordPress
-- **IDEs & Tools:** Android Studio, Eclipse
+- **IDEs & Tools:** Android Studio, Eclipse, GIMP
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)  
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
